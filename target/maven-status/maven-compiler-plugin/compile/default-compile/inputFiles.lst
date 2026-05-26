@@ -1,0 +1,12 @@
+C:\Users\ALUNO\Documents\GitHub\servico_auditor_dlq\src\main\java\com\seudominio\auditor\domain\model\OrderFailedEvent.java
+C:\Users\ALUNO\Documents\GitHub\servico_auditor_dlq\src\main\java\com\seudominio\auditor\service\SeverityClassifierService.java
+C:\Users\ALUNO\Documents\GitHub\servico_auditor_dlq\src\main\java\com\seudominio\auditor\domain\model\ErrorAudit.java
+C:\Users\ALUNO\Documents\GitHub\servico_auditor_dlq\src\main\java\com\seudominio\auditor\service\AuditService.java
+C:\Users\ALUNO\Documents\GitHub\servico_auditor_dlq\src\main\java\com\seudominio\auditor\config\AwsConfig.java
+C:\Users\ALUNO\Documents\GitHub\servico_auditor_dlq\src\main\java\com\seudominio\auditor\dto\OrderFailedEventDto.java
+C:\Users\ALUNO\Documents\GitHub\servico_auditor_dlq\src\main\java\com\seudominio\auditor\domain\enums\Severity.java
+C:\Users\ALUNO\Documents\GitHub\servico_auditor_dlq\src\main\java\com\seudominio\auditor\dto\OrderItemDto.java
+C:\Users\ALUNO\Documents\GitHub\servico_auditor_dlq\src\main\java\com\seudominio\auditor\domain\enums\Status.java
+C:\Users\ALUNO\Documents\GitHub\servico_auditor_dlq\src\main\java\com\seudominio\auditor\domain\repository\ErrorAuditRepository.java
+C:\Users\ALUNO\Documents\GitHub\servico_auditor_dlq\src\main\java\com\seudominio\auditor\AuditorApplication.java
+C:\Users\ALUNO\Documents\GitHub\servico_auditor_dlq\src\main\java\com\seudominio\auditor\consumer\DeadLetterQueueConsumer.java

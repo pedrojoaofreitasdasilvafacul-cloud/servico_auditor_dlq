@@ -1,0 +1,12 @@
+com\seudominio\auditor\domain\enums\Severity.class
+com\seudominio\auditor\dto\OrderFailedEventDto.class
+com\seudominio\auditor\config\AwsConfig.class
+com\seudominio\auditor\AuditorApplication.class
+com\seudominio\auditor\dto\OrderItemDto.class
+com\seudominio\auditor\domain\repository\ErrorAuditRepository.class
+com\seudominio\auditor\domain\model\OrderFailedEvent.class
+com\seudominio\auditor\domain\model\ErrorAudit.class
+com\seudominio\auditor\domain\enums\Status.class
+com\seudominio\auditor\consumer\DeadLetterQueueConsumer.class
+com\seudominio\auditor\service\SeverityClassifierService.class
+com\seudominio\auditor\service\AuditService.class
